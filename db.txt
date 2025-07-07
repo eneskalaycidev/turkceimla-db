@@ -59,4 +59,4 @@ coğrafya/coğrâfya/‏جغرافيه/-/-/-/-
 zaman/zamân/‏زمان/-/-/-/-
 rivayet/rivâyet/‏روايت/-/-/-/-
 rüya/rü`yâ/‏رؤيا/-/-/-/-
-astronomi/astronomi/‏آصترونومي/astronomy/-/-/-
+astronomi/astronomi/‏آصترونومي/-/astronomy/-/-/-
