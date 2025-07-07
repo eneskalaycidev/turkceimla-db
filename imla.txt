@@ -41,6 +41,7 @@ türkçe imlâ osmanlıca öztürkçe ingilizce almanca fransızca ispanyolca
 ⌛ hira dağı hirâ dağı ‏حرا طاغي .
 ⌛ hatır hâtır ‏خاطر ansıma
 ⌛ hatırlamak hâtırlamak ‏خاطرلامق ansımak
+⌛ hatıra hâtıra . 
 ⌛ ehli ehlî ‏اهلي .
 ✅ lisan lisân ‏لسان dil language sprache langue idioma
 ⌛ dava da'vâ ‏دعوا .
@@ -50,5 +51,10 @@ türkçe imlâ osmanlıca öztürkçe ingilizce almanca fransızca ispanyolca
 ⌛ müptela müptelâ ‏مبتلا .
 ⌛ felaket felâket ‏فلاكت .
 ⌛ sanayi sanâyi' ‏صنايع .
+⌛ fevkalade fevkalâde ‏فوق العاده .
+⌛ dahil dâhil ‏داخل .
+⌛ ittihat ve terakki ittihâd ve terakkî ‏ ‏اتحاد و ترقي.
+⌛ cumhuriyet cumhûriyet ‏جمهوريت .
+⌛ coğrafya coğrâfya ‏جغرافيه .
 
 
