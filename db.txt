@@ -75,3 +75,16 @@ kederlenmek/kederlenmek/‏كدرلنمك/-/-/-/-
 un/un/‏اون/-/-/-/-
 umut/umut/اوموت/-/-/-/-
 ışık/ışık/ايشيق/-/-/-/-
+gürültü/gürültü/‏گورولتي/-/-/-/-
+ekran/ekran/‏اكران/-/-/-/-
+kitap/kitap/كتاب/-/-/-/-
+parfüm/parfüm/‏پارفوم/-/-/-/-
+mendil/mendîl/‏منديل/-/-/-/-
+mühendis/mühendis/‏مهندس/-/-/-/-
+program/program/‏پروغرام/-/-/-/-
+televizyon/televizyon/‏تله ويزيون/-/-/-/-
+polimer/polimer/‏پوليمر/-/-/-/-
+poşet/poşet/‏پوشت/-/-/-/-
+sözlük/sözlük/سوزلك/-/dictionary/-/-/-
+kamus/kāmûs/‏قاموس/sözlük/dictionary/-/-/-
+zeka/zekâ/‏ذكا/-/-/-/-/-
