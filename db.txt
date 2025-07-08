@@ -106,7 +106,7 @@ anne/anne/‏آننه/-/mother/die mutter/-/-
 baba/baba/‏بابا/-/father/der vater/-/-
 kız kardeş/kız kardeş/‏قيز قرداش/-/sister/die schwester/-/-
 erkek kardeş/erkek kardeş/-/-/brother/der bruder/-/-
-erkek/erkek/اركك	/-/man/der mann/-/-
+erkek/erkek/اركك/-/man/der mann/-/-
 kadın/kadın/‏قادين/-/woman/	die frau/-/-
-oğlan/oğlan/‏اوغلان	/-/boy/der junge/-/-
+oğlan/oğlan/‏اوغلان/-/boy/der junge/-/-
 kız/kız/	‏قيز/-/girl/das mädchen/-/-
