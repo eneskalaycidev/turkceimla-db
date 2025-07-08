@@ -46,7 +46,7 @@ ehli/ehlî/‏اهلي/-/-/-/-
 lisan/lisân/‏لسان/dil/language/sprache/langue/idioma
 dava/da'vâ/‏دعوا/-/-/-/-
 külah/külah/كلاه/-/-/-/-
-dünya/dünyâ/‏دنيا/-/world/welt/monde/mundo
+dünya/dünyâ/‏دنيا/evren/world/welt/monde/mundo
 veyahut/veyâhûd/‏وياخود/-/-/-/-
 müptela/müptelâ/‏مبتلا/-/-/-/-
 felaket/felâket/‏فلاكت/-/-/-/-
