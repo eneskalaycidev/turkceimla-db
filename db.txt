@@ -1,6 +1,5 @@
 türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/ispanyolca
 imla/imlâ/‏املا/-/spelling/rechtschreibung/orthographe/ortografía
-aile/âile/‏عائله/budun/family/familie/famille/familia
 ıslah/ıslâh/‏اصلاح/-/reclamation/-/-/-
 iktisat/iktisât/‏اقتصاد،-دي/tecim/economy/-/-/-
 irade/irâde/‏اراده/-/willpower/-/-/-
@@ -101,3 +100,13 @@ zeytinyağı/zeytinyağı/‏زيتون ياغي/-/-/-/-
 tereyağı/tereyağı/‏تره ياغي/-/-/-/-
 kelebek/kelebek/كله بك/-/-/-/-
 inek/inek/اينك/-/-/-/-/-
+
+aile/âile/‏عائله/budun/family/die familie/-/-
+anne/anne/‏آننه/-/mother/die mutter/-/-
+baba/baba/‏بابا/-/father/der vater/-/-
+kız kardeş/kız kardeş/‏قيز قرداش/-/sister/die schwester/-/-
+erkek kardeş/erkek kardeş/-/-/brother/der bruder/-/-
+erkek/erkek/اركك	/-/man/der mann/-/-
+kadın/kadın/‏قادين/-/woman/	die frau/-/-
+oğlan/oğlan/‏اوغلان	/-/boy/der junge/-/-
+kız/kız/	‏قيز/-/girl/das mädchen/-/-
