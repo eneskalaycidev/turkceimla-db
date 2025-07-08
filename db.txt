@@ -88,3 +88,16 @@ poşet/poşet/‏پوشت/-/-/-/-
 sözlük/sözlük/سوزلك/-/dictionary/-/-/-
 kamus/kāmûs/‏قاموس/sözlük/dictionary/-/-/-
 zeka/zekâ/‏ذكا/-/-/-/-/-
+zeki/zekî/‏ذكي/-/-/-/-/-
+perde/perde/‏پرده/-/-/-/-/-
+yastık/yastık/‏ياصديق/-/-/-/-/-
+duvar/duvar/‏ديوار/-/-/-/-/-
+gazete/gazete/‏غزته/-/newspaper/-/-/-
+havadis/havâdis/‏حوادث/-/-/-/-
+evrak/evrâk/‏اوراق/-/-/-/-
+kağıt/kâğıt/كاغد/-/paper/-/-/-
+kağıthane/kâğıthâne/‏كاغدخانه/-/-/-/-
+zeytinyağı/zeytinyağı/‏زيتون ياغي/-/-/-/-
+tereyağı/tereyağı/‏تره ياغي/-/-/-/-
+kelebek/kelebek/كله بك/-/-/-/-
+inek/inek/اينك/-/-/-/-/-
