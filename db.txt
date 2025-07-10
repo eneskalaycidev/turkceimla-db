@@ -126,8 +126,8 @@ arapçadır (anonim, kitâb fi'l-fıkh bi'l-lisâni't-türkî, 1421 yılından �
 -/nazik/nâzik/نازك/-/kind/nett/-/-
 -/zeki/zekî/‏ذكي/-/smart/klug/-/-
 
--/abıhayat/âb-ı hayât/‏آب حيات/bengisu
--/abide/âbide/‏آبده/anıt
+arapçadır/abıhayat/âb-ı hayât/‏آب حيات/bengisu/water of life/wasser des lebens/l'eau de vie/agua de vida/вода жизни (voda zhizni)/生命之水 (shēngmìng zhī shuǐ)/(mi hachi'im) מי החיים/(ma' alhayaa) ماء الحياة
+arapçadır (Meninski, Thesaurus, 1680)/abide/âbide/آبده/anıt/monument/denkmal/monument/monumento/памятник (pamyatnik)/纪念碑 (jìniànbēi)/(anndartta) אַנדַרטָה/(nusb tadhkari) نصب تذكاري
 -/a'bide/a'bide/‏اعبده/kölevi
 -/abidevi/âbidevî/‏آبده وي/anıtsal
 -/abluka/abluka/‏آبلوقه/kuşatma
@@ -140,3 +140,6 @@ arapçadır (anonim, kitâb fi'l-fıkh bi'l-lisâni't-türkî, 1421 yılından �
 -/adabımuaşeret/âdâb-ı muâşeret/‏آداب معاشرت/görgü
 -/adale/adale/‏عضله/kas
 -/adalet/adâlet/‏عدالت/türe
+
+
+
