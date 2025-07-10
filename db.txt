@@ -1,126 +1,126 @@
-türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/ispanyolca
-imla/imlâ/‏املا/-/spelling/rechtschreibung/orthographe/ortografía
-ıslah/ıslâh/‏اصلاح/-/reclamation/-/-/-
-iktisat/iktisât/‏اقتصاد،-دي/tecim/economy/-/-/-
-irade/irâde/‏اراده/-/willpower/-/-/-
-müdafaa/müdâfaa/‏مدافعه/-/defence/-/-/-
-misak(antlaşma)/mîsâk/‏ميثاق/-/pact/-/-/-
-lüzum/lüzûm/‏لزوم/-/-/-/-/-
-fena/fenâ/‏فنا/-/-/-/-/-
-şair/şâir/‏شاعر/-/-/-/-/-
-istisna/istisnâ/‏استثنا/-/-/-/-/-
-merak/merâk/‏مراق/-/curiosity/-/-/-
-hayat/hayât/‏حيات/yaşam/life/leben/vie/vida
-ibranice/ibrânîce/‏عبرانيجه/-/hebrew/-/-/-
-madde/mâdde/‏ماده/-/substance/-/-/-
-tabiat/tabîat/‏طبيعت/doğa/nature/-/-/-
-eşya/eşyâ/‏اشيا/-/object/-/-/-
-takat/tâkat/‏طاقت/-/-/-/-
-istikbal/istikbâl/‏استقبال/gelecek/future/-/-/-
-ziyade/ziyâde/‏زياده/-/-/-/-
-haramzade/harâmzâde/‏حرامزاده/-/-/-/-
-vesaire/vesâire/‏وسائره/-/-/-/-
-tahribat/tahrîbât/‏تخريبات/-/-/-/-
-hafıza/hâfıza/‏حافظه/bellek/memory/-/-/-
-tarih/târîh/‏تاريخ/-/history/-/-/-
-tarihi/târîhî/‏تاريخي/-/-/-/-
-avam/avâm/‏عوام/-/-/-/-
-sadece/sâdece/‏ساده جه/-/-/-/-
-muhatab/muhâtab/‏مخاطب/-/-/-/-
-mahrum/mahrûm/‏محروم/-/-/-/-
-hayal/hayâl/‏خيال/-/-/-/-
-hayali/hayâlî/‏خيالي/-/-/-/-
-şeytani/şeytânî/‏شيطاني/-/-/-/-
-huzur/huzûr/‏حضور/-/-/-/-
-mimari/mi'mârî/‏معماري/-/-/-/-
-günahkar/günâhkâr/‏گناهكار/-/-/-/-
-nefsi/nefsî/‏نفسي/-/-/-/-
-kalu bela/kâlû belâ/‏قالوا بلي/-/-/-/-
-hira/hirâ/‏حرا/-/-/-/-
-hira dağı/hirâ dağı/‏حرا طاغي/-/-/-/-
-hatır/hâtır/‏خاطر/ansıma/-/-/-/-
-hatırlamak/hâtırlamak/‏خاطرلامق/ansımak/-/-/-/-
-hatıra/hâtıra/-/-/-/-
-ehli/ehlî/‏اهلي/-/-/-/-
-lisan/lisân/‏لسان/dil/language/sprache/langue/idioma
-dava/da'vâ/‏دعوا/-/-/-/-
-külah/külah/كلاه/-/-/-/-
-dünya/dünyâ/‏دنيا/evren/world/welt/monde/mundo
-veyahut/veyâhûd/‏وياخود/-/-/-/-
-müptela/müptelâ/‏مبتلا/-/-/-/-
-felaket/felâket/‏فلاكت/-/-/-/-
-sanayi/sanâyi'/‏صنايع/-/-/-/-
-fevkalade/fevkalâde/‏فوق العاده/-/-/-/-
-dahil/dâhil/‏داخل/-/-/-/-
-ittihat ve terakki/ittihâd ve terakkî/‏ ‏اتحاد و ترقي/-/-/-/-
-cumhuriyet/cumhûriyet/‏جمهوريت/-/-/-/-
-coğrafya/coğrâfya/‏جغرافيه/-/-/-/-
-zaman/zamân/‏زمان/-/-/-/-
-rivayet/rivâyet/‏روايت/-/-/-/-
-rüya/rü`yâ/‏رؤيا/-/-/-/-
-astronomi/astronomi/‏آصترونومي/-/astronomy/-/-/-
-insan/insân/‏انسان/birey/human/-/-/-
-kamil/kâmil/‏كامل/-/-/-/-
-heyecan/heyecân/‏هيجان/-/-/-/-
-terbiye/terbiye/‏تربيه/-/-/-/-
-yunan/yunan/‏يونان/-/greek/-/-/-
-galeyan/galeyân/‏غليان/-/-/-/-
-zanaat/zanâat/‏صناعت/-/-/-/-
-zannetmek/zannetmek/‏ظن ايتمك/-/-/-/-
-numune/numûne/‏نمونه/-/-/-/-
-kebir/kebîr/‏كبير/-/-/-/-
-keder/keder/‏كدر/-/-/-/-
-kederlenmek/kederlenmek/‏كدرلنمك/-/-/-/-
-un/un/‏اون/-/-/-/-
-umut/umut/اوموت/-/-/-/-
-ışık/ışık/ايشيق/-/-/-/-
-gürültü/gürültü/‏گورولتي/-/-/-/-
-ekran/ekran/‏اكران/-/-/-/-
-kitap/kitap/كتاب/-/-/-/-
-parfüm/parfüm/‏پارفوم/-/-/-/-
-mendil/mendîl/‏منديل/-/-/-/-
-mühendis/mühendis/‏مهندس/-/-/-/-
-program/program/‏پروغرام/-/-/-/-
-televizyon/televizyon/‏تله ويزيون/-/-/-/-
-polimer/polimer/‏پوليمر/-/-/-/-
-poşet/poşet/‏پوشت/-/-/-/-
-sözlük/sözlük/سوزلك/-/dictionary/-/-/-
-kamus/kāmûs/‏قاموس/sözlük/dictionary/-/-/-
-zeka/zekâ/‏ذكا/-/-/-/-/-
-zeki/zekî/‏ذكي/-/-/-/-/-
-perde/perde/‏پرده/-/-/-/-/-
-yastık/yastık/‏ياصديق/-/-/-/-/-
-duvar/duvar/‏ديوار/-/-/-/-/-
-gazete/gazete/‏غزته/-/newspaper/-/-/-
-havadis/havâdis/‏حوادث/-/-/-/-
-evrak/evrâk/‏اوراق/-/-/-/-
-kağıt/kâğıt/كاغد/-/paper/-/-/-
-kağıthane/kâğıthâne/‏كاغدخانه/-/-/-/-
-zeytinyağı/zeytinyağı/‏زيتون ياغي/-/-/-/-
-tereyağı/tereyağı/‏تره ياغي/-/-/-/-
-kelebek/kelebek/كله بك/-/-/-/-
-inek/inek/اينك/-/-/-/-/-
+etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/ispanyolca
+-/imla/imlâ/‏املا/-/spelling/rechtschreibung/orthographe/ortografía
+-/ıslah/ıslâh/‏اصلاح/-/reclamation/-/-/-
+-/iktisat/iktisât/‏اقتصاد،-دي/tecim/economy/-/-/-
+-/irade/irâde/‏اراده/-/willpower/-/-/-
+-/müdafaa/müdâfaa/‏مدافعه/-/defence/-/-/-
+-/misak(antlaşma)/mîsâk/‏ميثاق/-/pact/-/-/-
+-/lüzum/lüzûm/‏لزوم/-/-/-/-/-
+-/fena/fenâ/‏فنا/-/-/-/-/-
+-/şair/şâir/‏شاعر/-/-/-/-/-
+-/istisna/istisnâ/‏استثنا/-/-/-/-/-
+-/merak/merâk/‏مراق/-/curiosity/-/-/-
+-/hayat/hayât/‏حيات/yaşam/life/leben/vie/vida
+-/ibranice/ibrânîce/‏عبرانيجه/-/hebrew/-/-/-
+-/madde/mâdde/‏ماده/-/substance/-/-/-
+-/tabiat/tabîat/‏طبيعت/doğa/nature/-/-/-
+-/eşya/eşyâ/‏اشيا/-/object/-/-/-
+-/takat/tâkat/‏طاقت/-/-/-/-
+-/istikbal/istikbâl/‏استقبال/gelecek/future/-/-/-
+-/ziyade/ziyâde/‏زياده/-/-/-/-
+-/haramzade/harâmzâde/‏حرامزاده/-/-/-/-
+-/vesaire/vesâire/‏وسائره/-/-/-/-
+-/tahribat/tahrîbât/‏تخريبات/-/-/-/-
+-/hafıza/hâfıza/‏حافظه/bellek/memory/-/-/-
+-/tarih/târîh/‏تاريخ/-/history/-/-/-
+-/tarihi/târîhî/‏تاريخي/-/-/-/-
+-/avam/avâm/‏عوام/-/-/-/-
+-/sadece/sâdece/‏ساده جه/-/-/-/-
+-/muhatab/muhâtab/‏مخاطب/-/-/-/-
+-/mahrum/mahrûm/‏محروم/-/-/-/-
+-/hayal/hayâl/‏خيال/-/-/-/-
+-/hayali/hayâlî/‏خيالي/-/-/-/-
+-/şeytani/şeytânî/‏شيطاني/-/-/-/-
+-/huzur/huzûr/‏حضور/-/-/-/-
+-/mimari/mi'mârî/‏معماري/-/-/-/-
+-/günahkar/günâhkâr/‏گناهكار/-/-/-/-
+-/nefsi/nefsî/‏نفسي/-/-/-/-
+-/kalu bela/kâlû belâ/‏قالوا بلي/-/-/-/-
+-/hira/hirâ/‏حرا/-/-/-/-
+-/hira dağı/hirâ dağı/‏حرا طاغي/-/-/-/-
+-/hatır/hâtır/‏خاطر/ansıma/-/-/-/-
+-/hatırlamak/hâtırlamak/‏خاطرلامق/ansımak/-/-/-/-
+-/hatıra/hâtıra/-/-/-/-
+-/ehli/ehlî/‏اهلي/-/-/-/-
+-/lisan/lisân/‏لسان/dil/language/sprache/langue/idioma
+-/dava/da'vâ/‏دعوا/-/-/-/-
+-/külah/külah/كلاه/-/-/-/-
+-/dünya/dünyâ/‏دنيا/evren/world/welt/monde/mundo
+-/veyahut/veyâhûd/‏وياخود/-/-/-/-
+-/müptela/müptelâ/‏مبتلا/-/-/-/-
+-/felaket/felâket/‏فلاكت/-/-/-/-
+-/sanayi/sanâyi'/‏صنايع/-/-/-/-
+-/fevkalade/fevkalâde/‏فوق العاده/-/-/-/-
+-/dahil/dâhil/‏داخل/-/-/-/-
+-/ittihat ve terakki/ittihâd ve terakkî/‏ ‏اتحاد و ترقي/-/-/-/-
+-/cumhuriyet/cumhûriyet/‏جمهوريت/-/-/-/-
+-/coğrafya/coğrâfya/‏جغرافيه/-/-/-/-
+-/zaman/zamân/‏زمان/-/-/-/-
+-/rivayet/rivâyet/‏روايت/-/-/-/-
+-/rüya/rü`yâ/‏رؤيا/-/-/-/-
+-/astronomi/astronomi/‏آصترونومي/-/astronomy/-/-/-
+-/insan/insân/‏انسان/birey/human/-/-/-
+-/kamil/kâmil/‏كامل/-/-/-/-
+-/heyecan/heyecân/‏هيجان/-/-/-/-
+-/terbiye/terbiye/‏تربيه/-/-/-/-
+-/yunan/yunan/‏يونان/-/greek/-/-/-
+-/galeyan/galeyân/‏غليان/-/-/-/-
+-/zanaat/zanâat/‏صناعت/-/-/-/-
+-/zannetmek/zannetmek/‏ظن ايتمك/-/-/-/-
+-/numune/numûne/‏نمونه/-/-/-/-
+-/kebir/kebîr/‏كبير/-/-/-/-
+-/keder/keder/‏كدر/-/-/-/-
+-/kederlenmek/kederlenmek/‏كدرلنمك/-/-/-/-
+-/un/un/‏اون/-/-/-/-
+-/umut/umut/اوموت/-/-/-/-
+-/ışık/ışık/ايشيق/-/-/-/-
+-/gürültü/gürültü/‏گورولتي/-/-/-/-
+-/ekran/ekran/‏اكران/-/-/-/-
+-/kitap/kitap/كتاب/-/-/-/-
+-/parfüm/parfüm/‏پارفوم/-/-/-/-
+-/mendil/mendîl/‏منديل/-/-/-/-
+-/mühendis/mühendis/‏مهندس/-/-/-/-
+-/program/program/‏پروغرام/-/-/-/-
+-/televizyon/televizyon/‏تله ويزيون/-/-/-/-
+-/polimer/polimer/‏پوليمر/-/-/-/-
+-/poşet/poşet/‏پوشت/-/-/-/-
+-/sözlük/sözlük/سوزلك/-/dictionary/-/-/-
+-/kamus/kāmûs/‏قاموس/sözlük/dictionary/-/-/-
+-/zeka/zekâ/‏ذكا/-/-/-/-/-
+-/zeki/zekî/‏ذكي/-/-/-/-/-
+-/perde/perde/‏پرده/-/-/-/-/-
+-/yastık/yastık/‏ياصديق/-/-/-/-/-
+-/duvar/duvar/‏ديوار/-/-/-/-/-
+-/gazete/gazete/‏غزته/-/newspaper/-/-/-
+-/havadis/havâdis/‏حوادث/-/-/-/-
+-/evrak/evrâk/‏اوراق/-/-/-/-
+-/kağıt/kâğıt/كاغد/-/paper/-/-/-
+-/kağıthane/kâğıthâne/‏كاغدخانه/-/-/-/-
+-/zeytinyağı/zeytinyağı/‏زيتون ياغي/-/-/-/-
+-/tereyağı/tereyağı/‏تره ياغي/-/-/-/-
+-/kelebek/kelebek/كله بك/-/-/-/-
+-/inek/inek/اينك/-/-/-/-/-
 
-aile/âile/‏عائله/budun/family/die familie/-/-
-anne/anne/‏آننه/-/mother/die mutter/-/-
-baba/baba/‏بابا/-/father/der vater/-/-
-kız kardeş/kız kardeş/‏قيز قرداش/-/sister/die schwester/-/-
-erkek kardeş/erkek kardeş/-/-/brother/der bruder/-/-
-erkek/erkek/اركك/-/man/der mann/-/-
-kadın/kadın/‏قادين/-/woman/die frau/-/-
-oğlan/oğlan/‏اوغلان/-/boy/der junge/-/-
-kız/kız/‏قيز/-/girl/das mädchen/-/-
-arkadaş/arkadaş/‏آرقداش/-/friend/der freund/-/-
-isim/‏isim/اسم/-/name/der name/-/-
-soyisim/soyisim/‏صوي اسم/-/surname/der nachname/-/-
-yaş/yaş/‏ياش/-/age/das alter/-/-
-kişi/kişi/‏كيشي/-/person/die person/-/-
-bebek/bebek/ببك/-/baby/das baby/-/-
-çocuk/çocuk/‏-/-/child/das kind/-/-
-genç/genç/‏گنچ/-/teenager/der jugendliche/-/-
-yetişkin/yetişkin/‏يتيشكين/-/adult/der enwachsene/-/-
-aktif/aktif/‏آقتيف/-/active/aktiv/-/-
-cana yakın/cana yakın/‏جانه ياقين/-/friendly/freundlich/-/-
-komik/komik/قوميك/-/funny/lustig/-/-
-nazik/nâzik/نازك/-/kind/nett/-/-
-zeki/zekî/‏ذكي/-/smart/klug/-/-
+-/aile/âile/‏عائله/budun/family/die familie/-/-
+-/anne/anne/‏آننه/-/mother/die mutter/-/-
+-/baba/baba/‏بابا/-/father/der vater/-/-
+-/kız kardeş/kız kardeş/‏قيز قرداش/-/sister/die schwester/-/-
+-/erkek kardeş/erkek kardeş/-/-/brother/der bruder/-/-
+-/erkek/erkek/اركك/-/man/der mann/-/-
+-/kadın/kadın/‏قادين/-/woman/die frau/-/-
+-/oğlan/oğlan/‏اوغلان/-/boy/der junge/-/-
+-/kız/kız/‏قيز/-/girl/das mädchen/-/-
+-/arkadaş/arkadaş/‏آرقداش/-/friend/der freund/-/-
+-/isim/‏isim/اسم/-/name/der name/-/-
+-/soyisim/soyisim/‏صوي اسم/-/surname/der nachname/-/-
+-/yaş/yaş/‏ياش/-/age/das alter/-/-
+-/kişi/kişi/‏كيشي/-/person/die person/-/-
+-/bebek/bebek/ببك/-/baby/das baby/-/-
+-/çocuk/çocuk/‏-/-/child/das kind/-/-
+-/genç/genç/‏گنچ/-/teenager/der jugendliche/-/-
+-/yetişkin/yetişkin/‏يتيشكين/-/adult/der enwachsene/-/-
+-/aktif/aktif/‏آقتيف/-/active/aktiv/-/-
+-/cana yakın/cana yakın/‏جانه ياقين/-/friendly/freundlich/-/-
+-/komik/komik/قوميك/-/funny/lustig/-/-
+-/nazik/nâzik/نازك/-/kind/nett/-/-
+-/zeki/zekî/‏ذكي/-/smart/klug/-/-
