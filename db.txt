@@ -56,7 +56,7 @@ etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/i
 -/cumhuriyet/cumhûriyet/‏جمهوريت/-/-/-/-
 -/coğrafya/coğrâfya/‏جغرافيه/-/-/-/-
 -/zaman/zamân/‏زمان/-/-/-/-
--/rivayet/rivâyet/‏روايت/-/-/-/-/-/传闻 (chuánwén)
+-/rivayet/rivâyet/‏روايت/-/-/-/-/-/-/传闻 (chuánwén)
 -/rüya/rü`yâ/‏رؤيا/-/-/-/-
 -/astronomi/astronomi/‏آصترونومي/-/astronomy/-/-/-
 -/insan/insân/‏انسان/birey/human/-/-/-
