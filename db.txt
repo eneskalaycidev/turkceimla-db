@@ -125,3 +125,18 @@ arapçadır (anonim, kitâb fi'l-fıkh bi'l-lisâni't-türkî, 1421 yılından �
 -/komik/komik/قوميك/-/funny/lustig/-/-
 -/nazik/nâzik/نازك/-/kind/nett/-/-
 -/zeki/zekî/‏ذكي/-/smart/klug/-/-
+
+-/abıhayat/âb-ı hayât/‏آب حيات/bengisu
+-/abide/âbide/‏آبده/anıt
+-/a'bide/a'bide/‏اعبده/kölevi
+-/abidevi/âbidevî/‏آبده وي/anıtsal
+-/abluka/abluka/‏آبلوقه/kuşatma
+-/abluka etmek/abluka etmek/‏آبلوقه ايتمك/kuşatmak
+-/acayip/acayip/‏‏عجايب/yabansı
+-/aceleci/acelec/‏عجله جي/ivecen
+-/acele etmek/acele etmek/‏عجله ايتمك/ivmek
+-/acil/âcil/‏عاجل/ivedi
+-/aciz/âciz/‏عاجز/düşkü
+-/adabımuaşeret/âdâb-ı muâşeret/‏آداب معاشرت/görgü
+-/adale/adale/‏عضله/kas
+-/adalet/adâlet/‏عدالت/türe
