@@ -110,3 +110,17 @@ erkek/erkek/اركك/-/man/der mann/-/-
 kadın/kadın/‏قادين/-/woman/die frau/-/-
 oğlan/oğlan/‏اوغلان/-/boy/der junge/-/-
 kız/kız/‏قيز/-/girl/das mädchen/-/-
+arkadaş/arkadaş/‏آرقداش/-/friend/der freund/-/-
+isim/‏isim/اسم/-/name/der name/-/-
+soyisim/soyisim/‏صوي اسم/-/surname/der nachname/-/-
+yaş/yaş/‏ياش/-/age/das alter/-/-
+kişi/kişi/‏كيشي/-/person/die person/-/-
+bebek/bebek/ببك/-/baby/das baby/-/-
+çocuk/çocuk/‏-/-/child/das kind/-/-
+genç/genç/‏گنچ/-/teenager/der jugendliche/-/-
+yetişkin/yetişkin/‏يتيشكين/-/adult/der enwachsene/-/-
+aktif/aktif/‏آقتيف/-/active/aktiv/-/-
+cana yakın/cana yakın/‏جانه ياقين/-/friendly/freundlich/-/-
+komik/komik/قوميك/-/funny/lustig/-/-
+nazik/nâzik/نازك/-/kind/nett/-/-
+zeki/zekî/‏ذكي/-/smart/klug/-/-
