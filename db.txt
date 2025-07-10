@@ -56,7 +56,7 @@ etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/i
 -/cumhuriyet/cumhûriyet/‏جمهوريت/-/-/-/-
 -/coğrafya/coğrâfya/‏جغرافيه/-/-/-/-
 -/zaman/zamân/‏زمان/-/-/-/-
-arapçadır (anonim, mukaddimetü'l-edeb terc., 1300)/rivayet/rivâyet/‏روايت/söylenti/rumor/Gerücht/Rumeur/Rumor/Слухи (slukhi)/传闻 (chuánwén)/שְׁמוּעָה (shemamoo'a)/إشاعة (iishaea)
+arapçadır (anonim, mukaddimetü'l-edeb terc., 1300)/rivayet/rivâyet/‏روايت/söylenti/rumor/gerücht/rumeur/rumor/cлухи (slukhi)/传闻 (chuánwén)/שְׁמוּעָה (shemamoo'a)/إشاعة (iishaea)
 -/rüya/rü`yâ/‏رؤيا/-/-/-/-
 -/astronomi/astronomi/‏آصترونومي/-/astronomy/-/-/-
 -/insan/insân/‏انسان/birey/human/-/-/-
