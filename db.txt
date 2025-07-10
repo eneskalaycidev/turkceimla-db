@@ -101,7 +101,7 @@ etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/i
 -/kelebek/kelebek/كله بك/-/-/-/-
 -/inek/inek/اينك/-/-/-/-/-
 
--/aile/âile/‏عائله/budun/family/die familie/-/-
+arapçadır (anonim, kitâb fi'l-fıkh bi'l-lisâni't-türkî, 1421 yılından önce)/aile/âile/‏عائله/budun/family/die familie/-/-
 -/anne/anne/‏آننه/-/mother/die mutter/-/-
 -/baba/baba/‏بابا/-/father/der vater/-/-
 -/kız kardeş/kız kardeş/‏قيز قرداش/-/sister/die schwester/-/-
