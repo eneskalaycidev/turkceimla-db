@@ -1,4 +1,4 @@
-etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/ispanyolca
+etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/ispanyolca/rusça/çince/ibranice/arapça
 -/imla/imlâ/‏املا/-/spelling/rechtschreibung/orthographe/ortografía
 -/ıslah/ıslâh/‏اصلاح/-/reclamation/-/-/-
 -/iktisat/iktisât/‏اقتصاد،-دي/tecim/economy/-/-/-
