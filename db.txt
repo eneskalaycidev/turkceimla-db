@@ -1,13 +1,13 @@
 etimolojisi/türkçe/imlâ/osmanlıca/öztürkçe/ingilizce/almanca/fransızca/ispanyolca/rusça/çince/ibranice/arapça
-arapçadır (anonim, Mukaddimetü'l-Edeb terc., 1300)/imla/imlâ/‏املا/-/spelling/rechtschreibung/orthographe/ortografía
-arapçadır (Kıpçakça: (Danişmend-Name, 1360))/ıslah/ıslâh/‏اصلاح/-/reclamation/-/-/-
-arapçadır (Meninski, Thesaurus, 1680)/iktisat/iktisât/‏اقتصاد،-دي/tecim/economy/-/-/-
-arapçadır (Aşık Paşa, Garib-name, 1330)/irade/irâde/‏اراده/-/willpower/-/-/-
-arapçadır (Kıpçakça: (anonim, Munyatu'l-ġuzāt, 1400 yılından önce))/müdafaa/müdâfaa/‏مدافعه/-/defence/-/-/-
-arapçadır (Nasırüddin Rabguzi, Kısasü'l-Enbiya terc., 1310)/misak(antlaşma)/mîsâk/‏ميثاق/-/pact/-/-/-
-arapçadır (Hoca Sa'deddin Ef., Tacü't-Tevârih, 1574)/lüzum/lüzûm/‏لزوم/-/-/-/-/-
-arapçadır (Kutadgu Bilig, 1069)/fena/fenâ/‏فنا/-/-/-/-/-
-arapçadır (Kutadgu Bilig, 1069)/şair/şâir/‏شاعر/-/-/-/-/-
+arapçadır (anonim, mukaddimetü'l-edeb terc., 1300)/imla/imlâ/‏املا/-/spelling/rechtschreibung/orthographe/ortografía
+arapçadır (kıpçakça: (danişmend-name, 1360))/ıslah/ıslâh/‏اصلاح/-/reclamation/-/-/-
+arapçadır (meninski, thesaurus, 1680)/iktisat/iktisât/‏اقتصاد،-دي/tecim/economy/-/-/-
+arapçadır (aşık paşa, garib-name, 1330)/irade/irâde/‏اراده/-/willpower/-/-/-
+arapçadır (kıpçakça: (anonim, munyatu'l-ġuzāt, 1400 yılından önce))/müdafaa/müdâfaa/‏مدافعه/-/defence/-/-/-
+arapçadır (nasırüddin rabguzi, kısasü'l-enbiya terc., 1310)/misak(antlaşma)/mîsâk/‏ميثاق/-/pact/-/-/-
+arapçadır (hoca sa'deddin ef., tacü't-tevârih, 1574)/lüzum/lüzûm/‏لزوم/-/-/-/-/-
+arapçadır (kutadgu bilig, 1069)/fena/fenâ/‏فنا/-/-/-/-/-
+arapçadır (kutadgu bilig, 1069)/şair/şâir/‏شاعر/-/-/-/-/-
 -/istisna/istisnâ/‏استثنا/-/-/-/-/-
 -/merak/merâk/‏مراق/-/curiosity/-/-/-
 -/hayat/hayât/‏حيات/yaşam/life/leben/vie/vida
@@ -100,6 +100,7 @@ arapçadır (anonim, mukaddimetü'l-edeb terc., 1300)/rivayet/rivâyet/‏روا
 -/tereyağı/tereyağı/‏تره ياغي/-/-/-/-
 -/kelebek/kelebek/كله بك/-/-/-/-
 -/inek/inek/اينك/-/-/-/-/-
+arapçadır (gülşehri, mantıku't-tayr, 1317)/tercüman/tercümân/‏ترجمان/dilmaç/-/-/-/-
 
 arapçadır (anonim, kitâb fi'l-fıkh bi'l-lisâni't-türkî, 1421 yılından önce)/aile/âile/‏عائله/budun/family/die familie/-/-
 -/anne/anne/‏آننه/-/mother/die mutter/-/-
