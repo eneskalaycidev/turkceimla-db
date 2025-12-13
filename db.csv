@@ -477,7 +477,7 @@ x,-,-,-,-,excellent
 x,-,-,-,-,choice
 x,-,-,-,-,everything
 x,-,-,-,-,hello
-x,-,-,-,-,world
+x,dünya,dünyâ,-,-,world
 x,-,-,-,-,entire
 x,-,-,-,-,operating
 x,-,-,-,-,system
@@ -573,15 +573,15 @@ x,-,-,-,-,into
 x,-,-,-,-,multiple
 x,-,-,-,-,framework
 x,-,-,-,-,migrate
-x,-,-,-,-,time
+x,zaman,-,-,-,time
 x,-,-,-,-,tour
 x,-,-,-,-,tradition
 x,-,-,-,-,suggests
 x,-,-,-,-,first
-x,-,-,-,-,program
+x,program,-,-,-,program
 x,-,-,-,-,print
-x,-,-,-,-,word
-x,-,-,-,-,screen
+x,kelime,-,-,sözcük,word
+x,ekran,-,-,-,screen
 x,-,-,-,-,done
 x,-,-,-,-,single
 x,-,-,-,-,line
@@ -641,7 +641,7 @@ x,-,-,-,-,compile
 x,-,-,-,-,assign
 x,-,-,-,-,exactly
 x,-,-,-,-,once
-x,-,-,-,-,name
+arapça,isim,isim,-,ad,name
 x,-,-,-,-,determine
 x,-,-,-,-,many
 x,-,-,-,-,places
@@ -712,7 +712,7 @@ x,-,-,-,-,tangerines
 x,-,-,-,-,grapes
 x,-,-,-,-,occupations
 x,-,-,-,-,captain
-x,-,-,-,-,mechanic
+x,mekanik,-,-,-,mechanic
 x,-,-,-,-,public
 x,-,-,-,-,relation
 x,-,-,-,-,grow
@@ -723,7 +723,7 @@ x,-,-,-,-,empty
 x,-,-,-,-,initializer
 x,-,-,-,-,pass
 x,-,-,-,-,argument
-x,-,-,-,-,control
+x,kontrol,-,-,-,control
 x,-,-,-,-,flow
 x,-,-,-,-,switch
 x,-,-,-,-,conditionals
@@ -736,7 +736,7 @@ x,-,-,-,-,body
 x,-,-,-,-,required
 x,-,-,-,-,individual
 x,-,-,-,-,score
-x,-,-,-,-,team
+x,takım,-,-,-,team
 x,-,-,-,-,boolean
 x,-,-,-,-,such
 x,-,-,-,-,implicit
@@ -834,7 +834,7 @@ x,-,-,-,-,list
 x,-,-,-,-,parameter
 x,-,-,-,-,greet
 x,-,-,-,-,person
-x,-,-,-,-,day
+türkçe,gün,gün,-,kün,day
 x,-,-,-,-,today
 x,-,-,-,-,tuesday
 x,-,-,-,-,remove
@@ -861,7 +861,7 @@ x,-,-,-,-,things
 x,-,-,-,-,were
 x,-,-,-,-,saw
 x,-,-,-,-,surrounding
-x,-,-,-,-,map
+arapça,harita,harîta,-,-,map
 x,-,-,-,-,rewrite
 x,-,-,-,-,all
 x,-,-,-,-,several
@@ -872,7 +872,7 @@ x,-,-,-,-,intuitive
 x,-,-,-,-,developed
 x,-,-,-,-,application
 x,-,-,-,-,optimization
-x,-,-,-,-,easy
+türkçe,kolay,-,-,-,easy
 x,-,-,-,-,offering
 x,-,-,-,-,more
 x,-,-,-,-,coding
@@ -883,10 +883,10 @@ x,-,-,-,-,documentation
 x,-,-,-,-,second
 x,-,-,-,-,explore
 x,-,-,-,-,top
-x,-,-,-,-,post
+türkçe,gönderi,-,-,-,post
 x,-,-,-,-,online
 x,-,-,-,-,field
-x,-,-,-,-,who
+türkçe,kim,kim,-,-,who
 x,-,-,-,-,high
 x,-,-,-,-,demand
 x,-,-,-,-,base
