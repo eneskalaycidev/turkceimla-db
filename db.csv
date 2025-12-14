@@ -1425,4 +1425,7 @@ x,-,-,-,-,general
 x,-,-,-,-,disable
 x,-,-,-,-,option 
 x,-,-,-,-,publisher
+x,-,-,-,-,view
+x,-,-,-,-,commit 
+x,-,-,-,-,page 
 
