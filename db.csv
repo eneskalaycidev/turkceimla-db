@@ -336,22 +336,22 @@ türkçe,açıkelilik,-,-,-,
 türkçe,açıkgöz,-,-,-,
 türkçe,açıkgözleşme,-,-,-,
 türkçe,açıkgözleşmek,-,-,-,
-türkçe,yeni,-,-,-,new
+türkçe,yeni,yeni,‏يڭي,-,new
 x,hoş geldin,-,-,-,welcome
 x,-,-,-,-,swift
-x,-,-,-,-,about
+türkçe,hakkında,hakkında,‏حقنده,-,about
 x,-,-,-,-,is
 x,-,-,-,-,a
-x,-,-,-,-,fantastic
+fransızca,fantastik,‏فانتاستيك،-گي,-,fantastic
 x,-,-,-,-,way
 x,-,-,-,-,write
 x,yazılım,-,-,-,software
 x,-,-,-,-,whether
 x,-,-,-,-,it's
 x,-,-,-,-,for
-x,-,-,-,-,phone
-x,-,-,-,-,desktop
-x,-,-,-,-,server
+x,telefon,-,-,-,phone
+x,masaüstü,-,-,-,desktop
+türkçe,sunucu,sunucu,‏صونوجي,-,server
 x,-,-,-,-,or
 x,-,-,-,-,anything
 x,-,-,-,-,else
@@ -1329,7 +1329,7 @@ x,iş,-,-,-,job
 x,lütfen,-,-,-,please
 x,sanatçı,-,-,-,artist
 x,-,-,-,-,play
-x,-,-,-,-,window
+x,pencere,-,-,-,window
 x,-,-,-,-,bad
 x,-,-,-,-,depressed
 x,-,-,-,-,lazy
